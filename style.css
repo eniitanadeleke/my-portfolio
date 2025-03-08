@@ -74,6 +74,6 @@ body {
     font-size: 0.8rem;
 }
 
-.link:hover {
+.button:hover {
     background-color: rgb(13, 19, 20);
 }
