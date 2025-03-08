@@ -73,3 +73,7 @@ body {
     height: 100%;
     font-size: 0.8rem;
 }
+
+.link:hover {
+    background-color: rgb(13, 19, 20);
+}
